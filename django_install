@@ -1,0 +1,11 @@
+1) create a folder "django_new"
+2) enrte dir: cd django_new
+3) create vartual inverment : python3 -m venv env_name
+4) Active vartual inverment : source env_django/bin/activate
+5) Install Django : pip3 install django
+6) Create Django Project : django-admin startproject test_django1
+7) enter the Django Project Folder : cd test_django1
+8) Run the project : python manage.py runserver
+
+
+
